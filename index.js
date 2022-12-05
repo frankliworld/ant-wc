@@ -31,7 +31,7 @@ class AntAvatar extends HTMLElement {
         .username {
           font-size: 0.8em;
           text-align: center;
-          color: #fff;
+          color: currentColor;
         }
        </style>
        <img src="https://unavatar.io/${paths}" />
